@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class SecurityGAte{
     public static void main (String[] args){
         // 1. variable declaration and initialization
